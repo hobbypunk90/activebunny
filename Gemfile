@@ -15,3 +15,4 @@ gemspec
 # gem 'byebug', group: [:development, :test]
 
 gem 'bunny', "~> 2.14"
+gem 'activesupport', "~> 6.0.0"
